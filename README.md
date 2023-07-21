@@ -42,5 +42,5 @@ For more information on the Vigenere cipher and cross entropy, you can refer to 
 
 ## Contact
 
-If you have any questions or feedback regarding the Vigenere cipher decryption tool, feel free to reach out. You can find me on GitHub: [github.com/yourusername](https://github.com/ayokunle321).
+If you have any questions or feedback regarding the Vigenere cipher decryption tool, feel free to reach out. You can find me on GitHub: [github.com/ayokunle321](https://github.com/ayokunle321).
 
